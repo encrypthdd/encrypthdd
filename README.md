@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://portafolio.carlospcssoluciones.com.ve/">Carlos Flores</a> 👋</h1>
 </div>
-<img src="https://portafolio.carlospcssoluciones.com.ve/media/perfil/perfil-carlos.jpg" width="100%" height="400px">
+<img src="https://portafolio.carlospcssoluciones.com.ve/media/perfil/perfil-carlos-bg.jpg" width="100%" height="400px">
 
 ## 💫 Sobre mí:
 
